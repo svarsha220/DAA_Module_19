@@ -23,8 +23,8 @@ To write a python program for a search function with parameter list name and the
 8.If the loop completes without finding the key: If the loop ends normally (no match found), print "key Not Found" using the else clause of the loop.
 
 ## Program:
-Developed by: SWETHA N
-Register Number: 212222110050
+Developed by: VARSHA S
+Register Number: 212222220055
 ```
 def search(tup,key):
     for i in tup:
