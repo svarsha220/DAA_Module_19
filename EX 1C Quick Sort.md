@@ -31,9 +31,9 @@ To write a python program to implement quick sort using tha last element as pivo
 11.Print each element of the now sorted array.
 
 ## Program:
-Developed by: SWETHA N
+Developed by: VARSHA S
 
-Register Number: 212222110050
+Register Number: 212222220055
 
 ```
 def partition(arr, low, high):
